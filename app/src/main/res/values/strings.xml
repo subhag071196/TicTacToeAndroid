@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="welcome_to_tic_tac_toe">Welcome To Tic-Tac-Toe !</string>
+    <string name="gridview">GridView</string>
+    <string name="zero">zero</string>
+    <string name="tic_tac_toe">Tic-Tac-Toe !</string>
+    <string name="it_s_o_s_turn">It\'s O\'s turn!</string>
+</resources>
